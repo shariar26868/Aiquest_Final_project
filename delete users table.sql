@@ -1,0 +1,1 @@
+delete from office_management.users;
